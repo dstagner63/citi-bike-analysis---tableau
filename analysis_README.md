@@ -1,9 +1,8 @@
 # Project Name
-> Here goes your awesome project description!
+> Tableau Homework
 
 ## Table of contents
 * [General info](#general-info)
-* [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
@@ -12,38 +11,34 @@
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
-
-## Screenshots
-![Example screenshot](./img/screenshot.png)
+This project is about creating data visualizations in Tableau.
 
 ## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* Pandas
+* Tableau Public
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
-
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
+You can review the visualizations in the story link provided in my submission information.
 
 ## Features
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+List of features:
+* Total of 13 visualization worksheets
+* Phenomena 1 - Program Dashboard
+* Phenomena 2 - People Dashboard
+* Story - Citi Bike Program Analysis Visualizations
 
-To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+## Analysis
+The program data shows interesting information about the most popular start station, busiest month, weekday, and start time for bike trips. The data shows the highest use during the warmer months of spring, summer, and fall. The weekday data confirms what we might expect, the work-week or Monday through Friday has the highest trip activity with Tuesday and Wednesday at the highest. Daily start time also seems to correlate to normal daytime work schedules with peaks at 8 a.m. and 6 p.m. 
+
+The people data shows that males utilize the program more than females. The 20 to 40 age group is the most active with the program regardless of gender. Interestingly females have a higher average trip duration as compared to males. Perhaps they are much better at cycling safely and enjoying the scenery during their trip. It is also important to note that subscribers comprise 87% of trips by users.
+
+The maps provided also show that the starting stations activity is mainly in or around Jersey City with end stations in New York City. This indicates that many Jersey City residents are utilizing the Citi Bike Program to commute into New York City instead of automobiles.
 
 ## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
+Project is: Complete
 
 ## Inspiration
-Add here credits. Project inspired by..., based on...
+It was a lot of fun working with Tableau
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by David Stagner dstagner63@icloud.com
