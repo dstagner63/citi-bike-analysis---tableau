@@ -1,5 +1,5 @@
 # Project Name
-> Tableau Homework
+> Citi-Bike Analysis - Tableau
 
 ## Table of contents
 * [General info](#general-info)
@@ -11,7 +11,7 @@
 * [Contact](#contact)
 
 ## General info
-This project is about creating data visualizations in Tableau.
+This project is focused on creating data visualizations in Tableau.
 
 ## Technologies
 * Pandas
@@ -38,7 +38,7 @@ The maps provided also show that the starting stations activity is mainly in or 
 Project is: Complete
 
 ## Inspiration
-It was a lot of fun working with Tableau
+Tableau is a great data visualization tool. Python/Pandas was used to extract and transform the data into a new, clean csv (citi_bike_2019.csv) file.
 
 ## Contact
 Created by David Stagner dstagner63@icloud.com
