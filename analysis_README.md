@@ -18,7 +18,7 @@ This project is about creating data visualizations in Tableau.
 * Tableau Public
 
 ## Setup
-You can review the visualizations in the story link provided in my submission information.
+You can review the Tableau visualizations by clicking this link https://public.tableau.com/profile/david.stagner#!/vizhome/Tableau-Homework_16096218757380/Story?publish=yes.
 
 ## Features
 List of features:
